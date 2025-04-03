@@ -1,0 +1,52 @@
+<!-- tags -->
+<h1></h1>
+<h2></h2>
+<h6></h6>
+<p></p>
+<a href=""></a>
+<img src="" alt="" />
+<ul>
+<li></li>
+</ul>
+<ol>
+<li></li>
+</ol>
+<table></table>
+<br />
+<hr />
+
+<!-- tags não semânticas -->
+<div></div>
+<span></span>
+
+<!-- tags semanticas -->
+<header></header>
+<!-- Define cabeçalho -->
+<nav></nav>
+<!-- Define menu de navegação -->
+<footer></footer>
+<!-- Define rodapé -->
+<section></section>
+<!-- Define seção -->
+<article></article>
+<!-- Define artigo -->
+<aside></aside>
+<!-- Define conteúdo relacionado -->
+<main></main>
+<!-- Define conteúdo principal -->
+
+<nav>
+<ul>
+<li>
+<a href="">Depoimentos</a>
+</li>
+<li>
+<a href="">Quem somos</a>
+</li>
+</ul>
+</nav>
+
+<nav>
+<a href="">Depoimentos</a>
+<a href="">Quem Somos</a>
+</nav>

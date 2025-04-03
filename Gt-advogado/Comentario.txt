@@ -1,0 +1,14 @@
+<!-- tags não semanticas -->
+     <div>  </div>      - Divisão por coluna
+     <span> </span>     - Divisão lateral
+
+<!-- tags semanticas -->  (Tem função )    
+     <header> </header> - Define o Cabeçalho
+     <nav> </nav>       - Link
+     <footer> </footer> - 
+     <section> </section>
+     <article> </article>
+     <aside> </aside>
+     <main> </main>
+
+
