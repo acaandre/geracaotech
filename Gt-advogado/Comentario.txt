@@ -12,3 +12,9 @@
      <main> </main>
 
 
+
+<!-- Tags para trabalhos HTML --> 
+
+<header> </header>
+<main> </main>
+<footer> </footer>
