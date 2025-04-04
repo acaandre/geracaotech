@@ -1,0 +1,33 @@
+h1{
+    color: orange;
+}
+
+div{
+    background-color: blue;
+    width: 50%;
+    border: 10px solid red;
+    padding: 50px;
+    margin-top: 80px;
+   
+    /* Configurações do código Pai, repassam para os elementos filhos */
+    /* Utilize a porcentagem para renderizar baseado na tela  */
+
+/* padding (Preenchimento) é o espaço interno */
+/* padding: 50px 10px , o 50 px representa o vertical e o 10px representa o horizontal*/
+/* Top, Right, botton e Left. */
+}
+
+p {
+    color: red;
+    text-align: justify;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+div p{
+    color: white;
+    text-align: justify;
+}
